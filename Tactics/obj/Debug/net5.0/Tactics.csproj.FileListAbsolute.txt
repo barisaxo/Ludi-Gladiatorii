@@ -1,0 +1,15 @@
+/Users/b/Documents/PROGRAMMER/C#/Tactics/obj/Debug/net5.0/Tactics.csprojAssemblyReference.cache
+/Users/b/Documents/PROGRAMMER/C#/Tactics/obj/Debug/net5.0/Tactics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/b/Documents/PROGRAMMER/C#/Tactics/obj/Debug/net5.0/Tactics.AssemblyInfoInputs.cache
+/Users/b/Documents/PROGRAMMER/C#/Tactics/obj/Debug/net5.0/Tactics.AssemblyInfo.cs
+/Users/b/Documents/PROGRAMMER/C#/Tactics/obj/Debug/net5.0/Tactics.csproj.CoreCompileInputs.cache
+/Users/b/Documents/PROGRAMMER/C#/Tactics/bin/Debug/net5.0/Tactics.deps.json
+/Users/b/Documents/PROGRAMMER/C#/Tactics/bin/Debug/net5.0/Tactics.runtimeconfig.json
+/Users/b/Documents/PROGRAMMER/C#/Tactics/bin/Debug/net5.0/Tactics.runtimeconfig.dev.json
+/Users/b/Documents/PROGRAMMER/C#/Tactics/bin/Debug/net5.0/Tactics.dll
+/Users/b/Documents/PROGRAMMER/C#/Tactics/bin/Debug/net5.0/ref/Tactics.dll
+/Users/b/Documents/PROGRAMMER/C#/Tactics/bin/Debug/net5.0/Tactics.pdb
+/Users/b/Documents/PROGRAMMER/C#/Tactics/obj/Debug/net5.0/Tactics.dll
+/Users/b/Documents/PROGRAMMER/C#/Tactics/obj/Debug/net5.0/ref/Tactics.dll
+/Users/b/Documents/PROGRAMMER/C#/Tactics/obj/Debug/net5.0/Tactics.pdb
+/Users/b/Documents/PROGRAMMER/C#/Tactics/obj/Debug/net5.0/Tactics.genruntimeconfig.cache
