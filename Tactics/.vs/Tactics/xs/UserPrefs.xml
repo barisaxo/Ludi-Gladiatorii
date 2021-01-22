@@ -2,10 +2,10 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="InputSystem.cs">
     <Files>
       <File FileName="Program.cs" Line="22" Column="54" />
-      <File FileName="Gladiator.cs" Line="23" Column="6" />
-      <File FileName="Arena.cs" Line="48" Column="49" />
-      <File FileName="ActionSystem.cs" Line="142" Column="1" />
-      <File FileName="InputSystem.cs" Line="24" Column="93" />
+      <File FileName="Gladiator.cs" />
+      <File FileName="Arena.cs" />
+      <File FileName="ActionSystem.cs" />
+      <File FileName="InputSystem.cs" Line="23" Column="58" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Tactics PreferredExecutionTarget="MonoDevelop.Default" />

@@ -20,11 +20,11 @@ namespace Tactics
                 case 'd': gladiators[0].Position = ActionSystem.Move(spartacus, MoveDirection.E); break;
                 case 'f': gladiators[0].Position.Facing = ActionSystem.Rotate(spartacus, RotateDirection.Left).Facing; break;
                 case 'g': gladiators[0].Position.Facing = ActionSystem.Rotate(spartacus, RotateDirection.Right).Facing; break;
-                case 'u': gladiators = ActionSystem.PerformActions(gladiators, Actions.Avoid); break;
-                case 'i': gladiators = ActionSystem.PerformActions(gladiators, Actions.Check); break;
-                case 'j': gladiators = ActionSystem.PerformActions(gladiators, Actions.Hurt); break;
-                case 'l': gladiators = ActionSystem.PerformActions(gladiators, Actions.Maim); break;
-                case 'k': gladiators = ActionSystem.PerformActions(gladiators, Actions.Kill); break;
+                //case 'u': gladiators = ActionSystem.PerformActions(gladiators, Actions.Avoid); break;
+                //case 'i': gladiators = ActionSystem.PerformActions(gladiators, Actions.Check); break;
+                //case 'j': gladiators = ActionSystem.PerformActions(gladiators, Actions.Hurt); break;
+                //case 'l': gladiators = ActionSystem.PerformActions(gladiators, Actions.Maim); break;
+                //case 'k': gladiators = ActionSystem.PerformActions(gladiators, Actions.Kill); break;
                 case 'q': return;//fine(end)
             }
 

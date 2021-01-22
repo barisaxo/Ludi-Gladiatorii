@@ -13,14 +13,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/b/Documents/PROGRAMMER/C#/Tactics/Tactics.csproj",
+      "projectUniqueName": "/Users/b/Documents/PROGRAMMER/C#/Ludi-Gladiatorii/Tactics/Tactics.csproj",
       "projectName": "Tactics",
-      "projectPath": "/Users/b/Documents/PROGRAMMER/C#/Tactics/Tactics.csproj",
+      "projectPath": "/Users/b/Documents/PROGRAMMER/C#/Ludi-Gladiatorii/Tactics/Tactics.csproj",
       "packagesPath": "/Users/b/.nuget/packages/",
-      "outputPath": "/Users/b/Documents/PROGRAMMER/C#/Tactics/obj/",
+      "outputPath": "/Users/b/Documents/PROGRAMMER/C#/Ludi-Gladiatorii/Tactics/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/b/.config/NuGet/NuGet.Config"
+        "/Users/b/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
